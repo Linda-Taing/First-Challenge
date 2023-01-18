@@ -1,20 +1,17 @@
 *{font-family: 'Roboto', sans-serif;}
 
 header{
-    
     border: .2em solid black;
     border: .2em solid black;
     background-color: #1c4587;
     height: 4em;
     color: white;
     text-align: center; 
-    
 }
 
 main{
     padding:1 em;
     text-align: center;
-
 }
 
 p{
@@ -28,9 +25,9 @@ footer{
     padding: 3em;
     margin-top: 20rem;
     border: .2em solid black;
-
 }
 
+/* Section: Class */
 .justify-content-center{
     justify-content: center;
 }
@@ -51,14 +48,13 @@ footer{
     width:30em;
     margin-right: 5em;
     text-align: left;
-
 }
+
 .image-box{
     background-color: #1c4587;
     height: 11rem;
     width:15rem;
     margin-bottom: 1rem;
-
 }
 
 .article{
@@ -70,7 +66,6 @@ footer{
 .card{
     height: 15vh;
     width: 15vw;
-
 }
 
 .d-flex{
